@@ -1,7 +1,7 @@
 
 
 # Bio 
-Hermes Ai agent isolated with docker powered with Omniroute, made by Diego Rodrigues, optimized with caveman. 
+Hermes Ai agent isolated with docker powered with Omniroute optimized with caveman. 
 
 
 
